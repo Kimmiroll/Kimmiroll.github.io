@@ -1,5 +1,5 @@
 {
-  "max_video": 2,
+  "max_cell": 2,
   "max_row": 4,
   "YTlink": [
     "https://www.youtube.com/watch?v=mhxoXm8lWIo&list=LL&index=1",
